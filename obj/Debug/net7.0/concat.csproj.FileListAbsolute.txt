@@ -1,0 +1,15 @@
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.csproj.AssemblyReference.cache
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.AssemblyInfoInputs.cache
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.AssemblyInfo.cs
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.csproj.CoreCompileInputs.cache
+/Users/Ananyareddy/Desktop/concat/bin/Debug/net7.0/concat
+/Users/Ananyareddy/Desktop/concat/bin/Debug/net7.0/concat.deps.json
+/Users/Ananyareddy/Desktop/concat/bin/Debug/net7.0/concat.runtimeconfig.json
+/Users/Ananyareddy/Desktop/concat/bin/Debug/net7.0/concat.dll
+/Users/Ananyareddy/Desktop/concat/bin/Debug/net7.0/concat.pdb
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.dll
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/refint/concat.dll
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.pdb
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/concat.genruntimeconfig.cache
+/Users/Ananyareddy/Desktop/concat/obj/Debug/net7.0/ref/concat.dll
